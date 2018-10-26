@@ -8,7 +8,7 @@ Progress report due mid-October written in Latex
 - related work
 - problem statement
 
-# FP
+# FR
 - abstract
 - analysis
 - results/metrics
